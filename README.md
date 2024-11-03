@@ -2,7 +2,7 @@
 
 Este projeto implementa um modelo de aprendizado de máquina para detectar transações fraudulentas em cartões de crédito.
 
-🔗[Link para o notebook do código principal]()
+🔗[Link para o notebook do código principal](credit_card_fraud_detection.ipynb)
 
 ## Visão Geral do Projeto
 O conjunto de dados é altamente desbalanceado, com uma quantidade muito maior de transações legítimas em comparação com as fraudulentas. Para lidar com isso, aplicamos o **SMOTE (Synthetic Minority Over-sampling Technique)**, uma técnica que gera novas amostras sintéticas da classe minoritária.
